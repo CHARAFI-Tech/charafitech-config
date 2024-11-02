@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to CHARAFIBank accounts related prod APIs "
+  contactDetails:
+    name: "CHARAFI Saad - Product Owner"
+    email: "po@charafi.com"
+  onCallSupport:
+    - (444) 444-4444
+    - (333) 333-3333

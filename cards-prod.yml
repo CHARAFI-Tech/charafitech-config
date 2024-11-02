@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to CHARAFIBank accounts related prod APIs "
+  contactDetails:
+    name: "CHARAFI Saad - Product Owner"
+    email: "po@charafi.com"
+  onCallSupport:
+    - (888) 888-8888
+    - (777) 777-7777

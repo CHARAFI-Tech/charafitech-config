@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to CHARAFIBank accounts related QA APIs "
+  contactDetails:
+    name: "CHARAFI Saad - QA Lead"
+    email: "saad@charafi.com"
+  onCallSupport:
+    - (000) 000-0000
+    - (999) 999-9999

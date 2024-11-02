@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to CHARAFIBank Loans related local APIs "
+  contactDetails:
+    name: "CHARAFI Saad - Developer"
+    email: "saad@charafi.com"
+  onCallSupport:
+    - (000) 000-0000
+    - (000) 000-0000

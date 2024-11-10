@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to CHARAFIBank accounts related Github Webhook APIs "
+  message: "Welcome to CHARAFIBank accounts related Push Github Webhook APIs "
   contactDetails:
     name: "CHARAFI Saad - Product Owner"
     email: "po@charafi.com"

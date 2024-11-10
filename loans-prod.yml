@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to CHARAFIBank loans related rabbitmq APIs "
+  message: "Welcome to CHARAFIBank loans related Github Webhook APIs"
   contactDetails:
     name: "CHARAFI Saad - Product Owner"
     email: "po@charafi.com"

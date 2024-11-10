@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to CHARAFIBank cards related rabbitmq APIs "
+  message: "Welcome to CHARAFIBank cards related Github Webhook APIs"
   contactDetails:
     name: "CHARAFI Saad - Product Owner"
     email: "po@charafi.com"

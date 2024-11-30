@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to CHARAFI Bank accounts related default docker compose APIs "
+  message: "Welcome to CHARAFI Bank accounts related local APIs "
   contactDetails:
     name: "CHARAFI Saad - Developer"
     email: "saad@charafi.com"
